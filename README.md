@@ -1,2 +1,2 @@
-# Libft-project
-Project Libft at 42 school.
+# libft-project
+Project libft at 42 school.
